@@ -1,0 +1,12 @@
+﻿@page
+<link href="~/css/Checkerboard.css" rel="stylesheet" />
+@model CheckerBoardModel
+@{
+    ViewData["Title"] = "CheckerBoard";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h2>CheckerBoard</h2>
+<input type="checkbox" class="hiddenCheckBox" />
+<img id="checkerboard" class="checkerbox box" ondrop="drop(event)" ondragover="allowDrop(event)" />
+
