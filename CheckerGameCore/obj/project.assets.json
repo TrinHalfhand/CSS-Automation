@@ -12538,11 +12538,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Training\\repos\\CSS-Automation\\CheckerGameCore\\CheckerGameCore.csproj",
+      "projectUniqueName": "C:\\Training\\repos\\CSSAutomation\\CheckerGameCore\\CheckerGameCore.csproj",
       "projectName": "CheckerGameCore",
-      "projectPath": "C:\\Training\\repos\\CSS-Automation\\CheckerGameCore\\CheckerGameCore.csproj",
+      "projectPath": "C:\\Training\\repos\\CSSAutomation\\CheckerGameCore\\CheckerGameCore.csproj",
       "packagesPath": "C:\\Users\\mason\\.nuget\\packages\\",
-      "outputPath": "C:\\Training\\repos\\CSS-Automation\\CheckerGameCore\\obj\\",
+      "outputPath": "C:\\Training\\repos\\CSSAutomation\\CheckerGameCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
