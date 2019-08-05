@@ -7,6 +7,10 @@
 }
 
 <h2>CheckerBoard</h2>
-<input type="checkbox" class="hiddenCheckBox" />
-<img id="checkerboard" class="checkerbox box" ondrop="drop(event)" ondragover="allowDrop(event)" />
-
+<div style="display: inline-block">
+    <input type="checkbox" class="hiddenCheckBox" />
+    <div id="imgPanel" class="panel">
+        <img id="checkerboard" class="checkerbox box" ondrop="drop(event)" ondragover="allowDrop(event)" />
+        <img src="~/favicon.ico" class="over-img" />
+    </div>
+</div>
